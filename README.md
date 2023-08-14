@@ -1,2 +1,2 @@
 # esoft-programming
-chuong trinh phat trien phan mem ke toan 
+test xem dc ko
